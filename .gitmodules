@@ -5,6 +5,3 @@
 [submodule "gbm"]
 	path = gbm
 	url = https://github.com/gbm-developers/gbm
-[submodule "gbm3"]
-	path = gbm3
-	url = https://github.com/gbm-developers/gbm3
